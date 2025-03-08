@@ -10,10 +10,6 @@ https://github.com/avishah3/AI-Basketball-Shot-Detector-Tracker/assets/115107522
 
 This project combines the power of Machine Learning and Computer Vision for the purpose of detecting and analyzing basketball shots in real-time! Built upon the latest YOLOv8 (You Only Look Once) machine learning model and the OpenCV library, the program can process video streams from various sources, such as live webcam feed or pre-recorded videos, providing a tool that can be used for an immersive playing experience and enhanced game analytics.
 
-## Language
-- [English](README.md)
-- [中文](README-zh.md)
-
 ## Directory Structure
 
 ```
